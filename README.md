@@ -1,7 +1,7 @@
 # Forced-ratchet-model
 Forced ratched model of molecular motors.
 
-This is the code used to review the article by K. Sumithra and T. Sintes about optimal efficiency in forced ratchets. More information in the [review](https://github.com/agimenezromero/Forced-ratchet-model/blob/master/Review.pdf).
+This is the code used to review the article by K. Sumithra and T. Sintes about optimal efficiency in forced ratchets. More information in the [review](https://github.com/Physics-Simulations/Forced-ratchet-model/blob/master/Review.pdf).
 
 # References 
 
